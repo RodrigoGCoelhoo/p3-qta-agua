@@ -12,9 +12,10 @@ body {
 .bm-burger-button {
   position: fixed;
   width: 36px;
-  height: 30px;
-  left: 30px;
-  top: 30px;
+  height: 36px;
+  left: 20px;
+  top: 20px;
+  overflow: hidden;
 }
 
 /* Color/shape of burger icon bars */

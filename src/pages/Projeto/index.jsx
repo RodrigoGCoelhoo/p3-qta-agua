@@ -21,7 +21,7 @@ export function Projeto() {
         <p className="img-description">Foz do Córrego Uberaba</p>
         <p>Particularmente, este site irá abordar o processo completo da análise das águas a partir do ponto de coleta na foz do córrego Uberaba, passando pelo contexto do córrego, explicação do Índice de Qualidade das Águas (IQA), contexto social, metodologia dos experimentos realizados em laboratório e resultados do IQA e seus parâmetros obtidos. Para iniciarmos o projeto, fizemos a coleta das águas do córrego Uberaba pessoalmente.</p>
       
-        <Button page="metodologia" name="Metodologia"/>
+        <Button page="pinheiros" name="Rio Pinheiros"/>
       </div>
       
     </div>
