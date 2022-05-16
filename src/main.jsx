@@ -6,6 +6,7 @@ import {
   Route,
 } from "react-router-dom"
 
+
 import './index.css'
 
 import { Projeto } from './pages/Projeto'
@@ -18,6 +19,7 @@ import { Atualmente } from './pages/Atualmente'
 import { Links } from './pages/Links'
 
 import { ScrollToTop } from './components/ScrollToTop'
+
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
