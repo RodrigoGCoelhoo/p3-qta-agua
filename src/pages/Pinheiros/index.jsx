@@ -3,12 +3,12 @@ import './styles.css'
 import { BurguerMenu } from '../../components/BurguerMenu'
 import { Header } from '../../components/Header'
 
-export function Social() {
+export function Pinheiros() {
 
   return (
     <div>
       <BurguerMenu />
-      <Header page="Contexto social" />
+      <Header page="Rio Pinheiros" />
       
     </div>
   )
